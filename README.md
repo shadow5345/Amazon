@@ -1,2 +1,2 @@
 # Amazon
-Tried to copy amazon with HTML and Css
+Tried to copy Amazon with HTML and CSS
